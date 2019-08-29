@@ -1,3 +1,3 @@
 # hello-world
 
-it is the first day that i bein my work in github.
+it is the first day that i begin my work in github.
